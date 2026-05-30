@@ -25,7 +25,7 @@ const QUIZ_QUESTIONS = [
     category: "prise_de_parole",
     text: "Avant de prendre la parole en public, vous ressentez…",
     type: "scale",
-    label_low: "Rien — c'est naturel",
+    label_low: "J'adore ça — c'est naturel",
     label_high: "Une anxiété intense",
   },
   {
